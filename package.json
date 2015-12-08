@@ -1,0 +1,15 @@
+{
+  "name": "gcloud-node-pubsub-topic-bug",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Hiestand <chris@oakleon.com>",
+  "license": "ISC",
+  "dependencies": {
+    "gcloud": "^0.26.0",
+    "ramda": "^0.18.0"
+  }
+}
